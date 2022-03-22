@@ -6,16 +6,16 @@ I am an Electrical Engineering Student at the University of Maine, graduating in
 
 ### Capstone Project
 
-My capstone experience involved building a Pulse Oximeter that performed similarly to commercially available models. This project proved to be an incredibly valuable experience. One of the major challenges we faced was constructing a small mixed signal PCB with precision analog electronics. In order to hit our accuracy target using discrete analog components, the analog design was carefully considered. My teammate and I are in the process of generating the final report, however a project overview video will be posted on this website shortly
+My capstone experience involved building a Pulse Oximeter that performed similarly to commercially available models. This project proved to be an incredibly valuable experience. One of the major challenges we faced was constructing a small mixed signal PCB with precision analog electronics. In order to hit our accuracy target using discrete analog components, the analog design was carefully considered. My teammate and I are in the process of generating the final report, however a project overview video will be posted on this website when ready. 
 
 ### Guitar and Audio
 
-I have played guitar for the last 10+ years. With this experience came the realization that I could combine one of my greatest passions with my area of expertise. I am in the early stages of development on a few guitar related projects, including 3D printed Electric guitar pickups, effects pedals and a fully fledged guitar amplifier. All folded into Peppermint Audio, a venture that I am starting very slowly.  This is currently a side project and development in this area will be slow. I will also be posting some guitar project related videos and images here.
+I have played guitar for the last 10+ years. With this experience came the realization that I could combine one of my greatest passions with my area of expertise. I am in the early stages of development on a few guitar related projects, including 3D printed Electric guitar pickups, effects pedals and a fully fledged guitar amplifier. This is currently a side project and development in this area will be slow. I will also be posting some guitar project related videos and images here.
 
 
 ### Amateur Radio
 
-I currently hold my Amateur Radio Liscence at the Technician level, callsign W1KXV and club callsign W1YA. Upgrading my qualfications was put on hold by world events, however I plan to upgrade the liscence in the near future. my experience as a liscenced radio operator taught me valuable RF engineering principals. This experience, along with coursework relating to Feilds and Waves
+I currently hold my Amateur Radio Liscence at the General level. My callsign is W1KXV and club callsign W1YA. My experience as a liscenced radio operator taught me valuable RF engineering principals. This experience, along with my related coursework has proven to be very valuable in enhancing my understanding of electrical engineering. 
 
 ### Details LLC
 
