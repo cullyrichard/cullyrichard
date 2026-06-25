@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently working on writing various assemblers for obscure architectures, learning go, and restoring old computers. 
+Currently working on writing various assemblers for obscure architectures, learning Rust, and restoring old computers. 
 
 Volunteer at the RICM
 <!--
